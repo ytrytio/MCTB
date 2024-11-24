@@ -1,0 +1,9 @@
+{
+  "name": "MTCB",
+  "author": "[purple]GLOR[], [blue][blue]Daniel[red]Killer",
+  "main": "mtcb.MindustryTelegramChatBridge",
+  "description": "This plugin enables seamless communication between [accent]Mindustry[] in-game chat and [#3489eb]Telegram[]. With this bridge, [lime]players[] and [scarlet]administrators[] can exchange messages between the game and a designated [#3489eb]Telegram[] group or channel in [green]real-time[].",
+  "version": 1.4,
+  "minGameVersion": 145,
+  "hidden": true
+}
