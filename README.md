@@ -1,4 +1,4 @@
-# MCTB
+# MTCB
 Mindustry-Telegram Chat Bridge plugin enables seamless communication between Mindustry in-game chat and Telegram. With this bridge, players and administrators can exchange messages between the game and a designated Telegram group or channel in real-time.
 
 ## Setup
